@@ -18,9 +18,11 @@ select {
 .tableDesigne{
     
     margin: 60px;
+    margin-top: 5px;
 }
 .random{
     margin: 60px;
+    margin-bottom: 5px;
 }
 thead,
 tfoot {
